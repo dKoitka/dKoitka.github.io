@@ -1,16 +1,96 @@
 <html>
-<head>
-<style>
-body{
-	background-color: black;
-}
-</style>
-</head>
-<body>
-<div align="middle">
-<iframe width="840" height="473" src="https://www.youtube.com/embed/pAduULBlsRk?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br/>
-<iframe src="https://store.steampowered.com/widget/806670/" frameborder="0" width="646" height="190" size="0.5"></iframe>
-</div>
-</body>
+	<head>
+		<style>
+			body{
+				background-color: black;
+			}
+		
+			body, html {
+				height: 100%;
+			}
+			
+			.banner {
+				background-image: url("content/company/logo.png");
+
+				height: 50%;
+
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+				position: relative;
+			}
+			
+			.site-navigation {
+				position: top;
+				text-align: center;
+			}
+			
+			.nav-button {
+				background-color: #0F0F0F;
+				border: none;
+				color: white;
+				//padding: 15px 32px;
+				width: 125px;
+				height: 50px;
+				vertical-align: top;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+				margin: 4px 2px;
+				cursor: pointer;
+			}
+			
+			.social-button{
+				background-color: transparent;
+				border: none;
+				padding: 32px 25px;
+				vertical-align: center;
+
+			}
+			
+			.social-img{
+				position: center;
+				max-height: 100px;
+				vertical-align: center;
+			}
+
+			.container > div {
+				display: inline-block;
+				*display: inline; /* For IE7 */
+				zoom: 1; /* Trigger hasLayout */
+				width: 20%;
+				height: 150px;
+				text-align: center;
+				vertical-align: top;
+				background-color: black;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="banner">
+			<div class="site-navigation">
+				<button class="nav-button"> Artefact Assembly </button>
+				<a href="Lanterns.html"><button class="nav-button" > Lanterns </button></a>
+				<button class="nav-button"> Company </button>
+				<button class="nav-button"> Presskit </button>
+			</div>
+		</div>
+
+		<div class="container">
+			<div><button class="social-button"> <img class="social-img" src="content/social/facebook icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/twitter icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/facebook icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/facebook icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/youtube icon.png"/></button></div>
+		</div>
+		
+		<div style="display: flex;">
+			<div style="width: 75%;">
+				<h1> <font color="white"> Pax AUS</font></h1>
+				<font color="white"> Test Text </font>
+			</div>
+			<div style="flex-grow: 1;">
+				<a class="twitter-timeline" data-width="100%" data-height="1000" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/ArtefactA_Dev?ref_src=twsrc%5Etfw">Tweets by ArtefactA_Dev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div>
+
+		</div>
+	</body>
 </html>
