@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Lanterns</title>
+  <release-dates>
+    <release-date>15 March 2018</release-date>
+  </release-dates>
+  <website>https://www.artefactassembly.com/Lanterns</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request>mailto:artefactassembly@gmail.com</press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam (PC)</name>
+      <link>https://store.steampowered.com/app/806670/Lanterns/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>3.99</value>
+    </price>
+  </prices>
+
+  <description>Lanterns is a co-operative platformer where two players must work together to solve a gauntlet of unique puzzles. Players control a red and blue character that are able to shine a ray of light, of like colour.</description>
+
+  <!-- Choose between a single block: -->
+  <!--<history></history>-->
+
+  <!-- Or multiple blocks: -->
+  <histories>
+    <history>
+      <header>Initial Conception</header>
+      <text>At the start of 2017, the team came together and produced a demo at the 2017 January Make-A-Thing game jam.</text>
+    </history>
+    <history>
+      <header>Commercial viability</header>
+      <text>Once the team had completed their studies, they returned to turn Lanterns into a viable product. Since then, they have released multiple updated, each adding quality of life changes and new features.</text>
+    </history>
+    <history>
+      <header>Public Showcases</header>
+      <text>The team has showcased Lanterns at multiple events, each at different stages of the project's life.</text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>LOCAL COOP: play with a friend and laugh your way to repeated failures and success</feature>
+    <feature>5 PLAYABLE CREATURES: each adorable creature set will have you play slightly different with your friend. Each with an additional limitation than the previous</feature>
+    <feature>PLETHORA OF LEVELS AND OBSTACLES: will test your cooperation and platforming skills</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Lanterns - July 2018</name>
+      <youtube>pAduULBlsRk</youtube>
+    </trailer>
+    <trailer>
+      <name>Lanterns - October 2017</name>
+      <youtube>tXiVuaq7-Ak</youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      806670
+    </steam>
+    <itch>
+      229376
+    </itch>
+  </widgets>
+
+  <!-- not sure if we can add anything here
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+  -->
+
+  <quotes>
+    <quote>
+      <description>For anyone reading this who will be attending Pax Aus, this is one not to miss.</description>
+      <name>Scott Beeby</name>
+      <website>Brisbane Byte</website>
+      <link>https://www.brisbanebyte.com/articles/2018/9/1/go423-games-exhibition-recap</link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title>Update Announcements</title>
+      <description>Every time we release a minor update, there's a blog post on steam that explains the content. Go check out our progress!</description>
+      <link>https://steamcommunity.com/games/806670/announcements/</link>
+    </additional>
+  </additionals>
+  
+
+  <credits>
+    <credit>
+      <person>Nic Lyness</person>
+      <role>Mechanic/UI/Level/VFX Designer, Project/Social/Product Maintainer, Programmer</role>
+      <website>http://niclyness.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Daniel Koitka</person>
+      <role>Lead Programmer</role>
+      <website>http://danielkoitka.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Ashley Stevens</person>
+      <role>Mechanic/Level Designer</role>
+      <website>https://ashjagath.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Kate Lulham</person>
+      <role>Artist, Collaborator</role>
+      <website>http://cayel.strikingly.com/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <link>artefactassembly@gmail.com</link>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/ArtefactA_Dev</link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/ArtefactAssembly/</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>http://artefactassembly.com</link>
+    </contact>
+  </contacts>
+</product>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Artefact Assembly</title>
+  <based-in>Brisbane, Australia</based-in>
+  <founding-date>30 January 2018</founding-date>
+  <website>https://www.ArtefactAssembly.com</website>
+  <press-contact>ArtefactAssembly@gmail.com</press-contact>
+  <phone></phone>
+  
+  <address>
+    <!--<line>-->
+      <!-- Street -->
+    <!--</line>-->
+    <line>
+      Brisbane
+      <!-- City -->
+    </line>
+    <line>
+      Australia
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Facebook</name>
+      <link>
+        https://www.facebook.com/ArtefactAssembly/
+      </link>
+    </social>
+    <social>
+      <name>Youtube</name>
+      <link>
+        https://www.youtube.com/channel/UCifxJlPYaDc5_nKDfxWJXXQ
+      </link>
+    </social>
+    <social>
+      <name>Instagram</name>
+      <link>
+        https://www.instagram.com/artefactassemlydev/
+      </link>
+    </social>
+    <social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/ArtefactA_Dev
+      </link>
+    </social>
+  </socials>
+
+  <description>Artefact Assembly is a Brisbane based development studio working on their current project: Lanterns</description>
+
+  <!-- Choose between a single block: -->
+  <!--<history></history> -->
+
+  <!-- Or multiple blocks: -->
+
+  <histories>
+    <history>
+      <header>Creation</header>
+      <text>Artefact Assembly as created as the team realised the commercial potential of its first project, Lanterns</text>
+    </history>
+    <history>
+      <header>Events</header>
+      <text>Over time, the team has attended multiple events, showcasing Lanterns, and receiving positive feedback.</text>
+    </history>
+  </histories>
+  
+
+  <trailers>
+    <trailer>
+      <name>Lanterns - July 2018</name>
+      <youtube>pAduULBlsRk</youtube>
+    </trailer>
+    <trailer>
+      <name>Lanterns - October 2017</name>
+      <youtube>tXiVuaq7-Ak</youtube>
+    </trailer>
+  </trailers>
+
+  <!-- these I haven't filled in because I don't think we have anything to fill them in with
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+  -->
+
+  <!-- this has information for what roles we each had for lanterns, not the roles of the company, will definitely reuse these later so I commented them out
+  <credits>
+    <credit>
+      <person>Nic Lyness</person>
+      <role>Mechanic/UI/Level/VFX Designer, Project/Social/Product Maintainer, Programmer</role>
+      <website>http://niclyness.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Daniel Koitka</person>
+      <role>Lead Programmer</role>
+      <website>http://danielkoitka.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Ashley Stevens</person>
+      <role>Mechanic/Level Designer, funding co-ordinator</role>
+      <website>https://ashjagath.weebly.com/</website>
+    </credit>
+  </credits>
+  -->
+  <credits>
+    <credit>
+      <person>Nic Lyness</person>
+      <role>Founder, Designer, Artefact Assembly</role>
+      <website>http://niclyness.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Daniel Koitka</person>
+      <role>Founder, Programmer, Artefact Assembly</role>
+      <website>http://danielkoitka.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Ashley Stevens</person>
+      <role>Founder, Designer, Artefact Assembly</role>
+      <website>https://ashjagath.weebly.com/</website>
+    </credit>
+    <credit>
+      <person>Kate Lulham</person>
+      <role>Artist, Collaborator</role>
+      <website>http://cayel.strikingly.com/</website>
+    </credit>
+  </credits>
+  
+  
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <link>artefactassembly@gmail.com</link>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/ArtefactA_Dev</link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/ArtefactAssembly/</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>http://artefactassembly.com</link>
+    </contact>
+  </contacts>
+</company>

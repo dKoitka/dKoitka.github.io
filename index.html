@@ -2,7 +2,7 @@
 	<head>
 		<style>
 			body{
-				background-color: black;
+				background-color: #0F0F0F;
 			}
 		
 			body, html {
@@ -10,8 +10,8 @@
 			}
 			
 			.banner {
-				background-image: url("content/company/White on DarkGrey.png");
-
+				background-image: url("content/company/White on Transparent.png");
+				
 				height: 75%;
 
 				background-position: center;
@@ -41,18 +41,34 @@
 				cursor: pointer;
 			}
 			
+			.mainBody {
+				height: 100%;
+
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+				position: relative;
+			}
+			
+			.social-navigation {
+				position: top;
+				width: 100%;
+				position: relative;
+				height: 96px;
+			}
+
 			.social-button{
 				background-color: transparent;
 				border: none;
-				padding: 32px 25px;
-				vertical-align: center;
-
+				padding: 0%;
+				position: relative;
 			}
 			
 			.social-img{
-				position: center;
-				max-height: 100px;
-				vertical-align: center;
+				position: absolute;	
+				top:96px;right:0;bottom:0;left:-48px;
+				margin:auto;
+				width: 96px;
 			}
 
 			.container > div {
@@ -72,25 +88,44 @@
 		<div class="banner">
 			<div class="site-navigation">
 				<button class="nav-button"> Artefact Assembly </button>
-				<a href="Lanterns.html"><button class="nav-button" > Lanterns </button></a>
+				<a href="Lanterns.html" class="nav-button" > <img src="content/lanterns/colour logo.png" width="100%" height="auto"/></a>
 				<button class="nav-button"> Company </button>
-				<button class="nav-button"> Presskit </button>
+				<a href="presskits/build/index.html" ><button class="nav-button"> Presskit </button></a>
 			</div>
-		</div>
-
-		<div class="container">
-			<div><button class="social-button"> <img class="social-img" src="content/social/facebook icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/twitter icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/facebook icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/facebook icon.png"/></button></div><div><button class="social-button"> <img class="social-img" src="content/social/youtube icon.png"/></button></div>
 		</div>
 		
-		<div style="display: flex;">
-			<div style="width: 75%;">
-				<h1> <font color="white"> Pax AUS</font></h1>
-				<font color="white"> Test Text </font>
+		<div class="mainBody">
+			<div class="social-navigation">
+				<a href="https://www.instagram.com/artefactassemlydev/"
+					class="social-button" 
+					style="left: 20%;"> 
+					<img class="social-img" src="content/social/IG_Glyph_Fill.png"/> 
+				</a>
+				<a href="https://twitter.com/ArtefactA_Dev" 
+					class="social-button" 
+					style="left: 40%;"> 
+					<img class="social-img" src="content/social/twitter icon.png"/> 
+				</a>
+				<a href="https://www.facebook.com/ArtefactAssembly/" 
+					class="social-button" 
+					style="left: 60%;"> 
+					<img class="social-img" src="content/social/facebook icon.png"/> 
+				</a>
+				<a href="https://www.youtube.com/channel/UCifxJlPYaDc5_nKDfxWJXXQ" 
+					class="social-button" 
+					style="left: 80%;"> 
+					<img class="social-img" src="content/social/youtube icon.png"/> 
+				</a>
 			</div>
-			<div style="flex-grow: 1;">
-				<a class="twitter-timeline" data-width="100%" data-height="1000" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/ArtefactA_Dev?ref_src=twsrc%5Etfw">Tweets by ArtefactA_Dev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		
+			<div style="display: flex;">
+				<div style="width: 75%;">
+					<iframe src="https://steamcommunity.com/games/806670/announcements/rss" data-width="100%" data-height="100%" width="99%" height="1000"><p>Lanterns Updates</p></iframe> 
+				</div>
+				<div style="flex-grow: 1;">
+					<a class="twitter-timeline" data-width="100%" data-height="1000" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/ArtefactA_Dev">Tweets by ArtefactA_Dev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
 			</div>
-
 		</div>
 	</body>
 </html>
