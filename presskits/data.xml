@@ -8,9 +8,6 @@
   <phone></phone>
   
   <address>
-    <!--<line>-->
-      <!-- Street -->
-    <!--</line>-->
     <line>
       Brisbane
       <!-- City -->
@@ -58,7 +55,7 @@
   <histories>
     <history>
       <header>Creation</header>
-      <text>Artefact Assembly as created as the team realised the commercial potential of its first project, Lanterns</text>
+      <text>Artefact Assembly was created as the team realised the commercial potential of its first project, Lanterns</text>
     </history>
     <history>
       <header>Events</header>
