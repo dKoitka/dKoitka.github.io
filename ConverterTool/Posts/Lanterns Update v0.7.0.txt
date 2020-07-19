@@ -1,0 +1,83 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/b484397975673631deffbf5b9f090493fa579649.jpg[/img]
+[h1]Lanterns Update v0.7.0[/h1]
+
+In this post PAX POX Lanterns update:
+{
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/bf68152bbc37a27ae6727f50c10aab69feebc362.gif[/img]
+[h1]Character Set Collectables[/h1]
+Each character set now has Character Set Collectables (CSC). These collectables count towards unlocking a new character set. Character Select portals in the character select level now show the amount of CSC's required to unlock the next character set. Portals in level selects show which levels contain a CSC.
+[list]
+[*][i]New[/i] - Character Set Collectable Sprites & Animations.
+[*][i]New[/i] - Character Set Collectable Particles.
+[*][i]New[/i] - Character Set Collectable Trails.
+[*][i]New[/i] - Character Set Collectable UI Feedback.
+[*][i]Updated[/i] - Character Select Portals include CSC progress.
+[*][i]Updated[/i] - Level Select Portals to include CSC progress.
+[/list]All character sets are still currently unlocked and playable - but collecting them will still accumulate progress - for when progression is refined and complete.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/1651572cda7e3a1d7f39713cf4969dee6058228c.gif[/img]
+[h1]Miscellaneous Changes[/h1]
+[list]
+[*]Drastically increased the Lantern recharge rate for Axolotl, Moth and Anglerfish.
+[*]Updated the (controller) Lantern ray activation threshold.
+[*]Added a radial image to the tutorialisation image of player resetting in tutorial phase 3.
+[*]Dissolving blocks now have a transparent representation of where the original block is.
+[*]Morphing blocks now have a small delay before morphing (expanding and shrinking).
+[*]Added a confirm quit game UI panel.
+[*]Updated transitions between levels from a simple fade in and out to different (randomised) patterns.
+[*]Coloured coins now have a highlight every few seconds.
+[*]Re-arranged and increased the size of the main character select level.
+[*]Re-arranged tutorial sequence. Last phase tutorialises Character Set Collectables and unlocks play of Koala character set.
+[/list]
+
+[h1]Audio[/h1]
+[list]
+[*]Updated spring block SFX.
+[*]Updated head bump SFX.
+[*]Updated portal opening SFX.
+[*]Updated checkpoint activation SFX.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]AI collisions now properly kills the player.
+[*]Player reset particles now spawn in the correct position.
+[*]Character Select - Fox portal now has correct sprites above.
+[*]Characters no longer slide with minimal (controller) joystick movement.
+[*]Morph blocks now have a transparent sprite to show the rest of the block.
+[*]Spring blocks ignores player jump input.
+[*]Character head bump particles / audio feedback function again.
+[*]Character sprites now accurately walk on top of blocks.
+[/list]
+}
+
+[h1]What's To Come?[/h1]
+[b]Known Issues[/b]
+[list]
+[*]Missing Playstation 4 Controller support - We're in the process of updating controller support entirely which will result in many more controllers being compatible with the game.
+[*]The last level of Axolotl character set has issues with standing on the sideways sensor blocks.
+[*]Full screen/Windowed mode toggling/Cursor issues.
+[*]Coloured degrading blocks are lacking the visual of dissolving.
+[*]Finishing the last level in a character set doesn't revert to the Character Select level - instead continues to the first level of the next character set.
+[/list]
+
+[b]Level Editor[/b]
+This will be a lengthy process - but we hope to keep everyone informed on the progress being made.
+
+[b]Levels[/b]
+Refined level progression and level sets for all characters. We'll also be in the process of removing all of the current level set and replacing them with more permanent levels. Theres a good chance that a lot of the current levels in v0.7.0 will start to be shifted into an archive location or completely removed.
+
+[h1]Stay Up to Date[/h1]
+Stay up to date by visiting any or all of:
+[url=http://www.artefactassembly.com/]Website[/url]
+[url=https://discord.gg/VaYx8Px] Discord[/url]
+[url=https://www.facebook.com/ArtefactAssembly/] Facebook[/url]
+[url=https://twitter.com/ArtefactA_Dev]Twitter[/url]
+[url=https://www.instagram.com/artefactassemlydev/] Instagram[/url]
+
+[h1]Need a Friend?[/h1]
+You could try using Parsec [parsecgaming.com]
+Because Lanterns is currently only local-coop, If your friends are too far away, Parsec is a great way to play local games online. Parsec is free and relatively easy to setup.
+
+- The Artefact Team

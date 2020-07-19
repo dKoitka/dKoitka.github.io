@@ -1,0 +1,101 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/2daf40bc6f91c16d78403dd998b03917daec2913.gif[/img]
+[h1]Lanterns Update v0.6.0[/h1]
+
+In this Lanterns update:
+{
+
+[h1]Character Art[/h1]
+All Character art has been updated to make the Lantern centred to the characters body.
+[list]
+[*][i]New + Updated[/i] - Koala Character Set Art.
+[*][i]New + Updated[/i] - Axolotl Character Set Art.
+[*][i]Updated[/i] - Moth Character Set Art.
+[*][i]Updated[/i] - Anglerfish Character Set Art.
+[*][i]Updated[/i] - Fox Character Set Art.
+[*][i]Removed[/i] - Skull Characters. (This was going to be the Owl set)
+[*][i]Removed[/i] - Original Character Set.
+[/list]
+
+[h1]Character Sets & Progression[/h1]
+Character Sets in (intended) play order is:
+[olist]
+[*]Koala Set - No Lantern charge depletion rate.
+[*]Axolotl Set - Lantern charge depletion rate introduced.
+[*]Moth Set - Lantern Aura deactivated when Ray is active.
+[*]Anglerfish Set - No Aura, only Ray.
+[*]Fox Set - No Lantern re-recharge rate. Re-charge by collectibles.
+[/olist]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/0441152e4d4366955624405d08a212bc3a3a6b58.gif[/img]
+[h1]Enemy[/h1]
+[First Pass] We've added an enemy. It has a specific area which it patrols in and will only begin pursuit if revealed by a lantern. Once revealed it will not stop until all players have exited the patrol zone or have been caught. It's only the first pass of the enemy, so its movement might be a bit clunky or make some silly moves.
+[list]
+[*][i]New[/i] - Enemy Art.
+[*][i]New[/i] - Enemy Patrol Zone Art - Web.
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/2dcf3f31da3c07b126dc6889c0cb2e6a726a4fbb.gif[/img]
+[h1]Tutorial Sequence[/h1]
+A 6 phase tutorial sequence has been added to the start of the game. This tutorial sequence will automatically load the first time the game is being played. For now, existing lanterns players will be presented with this sequence next time the game is booted. After the sequence has been completed, normal game play will resume.
+There's a smaller door (with Lanterns) on the right hand side of the Character Select Level which will replay the tutorial sequence at any time.
+
+[h1]Koala Character Set Levels[/h1]
+Koala character set now has 20 playable levels.
+
+[h1]Fox Character Set Levels[/h1]
+Fox character set now has 5 (new) playable levels.
+
+[h1]Recharge Collectible[/h1]
+[list]
+[*][i]Updated[/i] - Lantern Recharge Collectible Art.
+[*][i]New[/i] - Particle Effects for Lantern Recharge Collectible.
+[/list]
+
+[h1]Device Input UI Panel[/h1]
+[Functionality] Added Functionality for Device Assign. This panel now allows players to choose who plays Red and who plays Blue and on what (available) input device. Apply can be pressed when changes have been made - characters will respond to the new input device assigned to them when the pause menu is closed. Switching input device won’t immediately effect how the UI is navigated - it will apply after the the menu is closed and reopened.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/75c1a91d36932d32ac1035b40ff557f9e1776811.png[/img]
+[h1]Screen Resolution UI Panel[/h1]
+[Preparation] In the pause menu > options, there is a new button [Screen Res]. This button opens a panel where the screen resolution settings can be adjusted. Full Screen works, but adjusting the screen resolution won’t actually change the screen resolution at this point.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/c7abb965590360419053a3867b273962b8d2a7a2.png[/img]
+[h1]Cursor Size UI Panel[/h1]
+In the pause menu > options, there is a new button [Cursor Size]. This button opens a panel where players who are using a keyboard and mouse to play can change what size the cursor is on screen.
+[list]
+[*][i]New[/i] - Red Cursor.
+[*][i]New[/i] - Blue Cursor.
+[/list]
+
+[h1]Self Destruct Input Visualisations[/h1]
+Keyboard / Xbox & PlayStation Gamepad visualisations have been added. These can be seen in the tutorial sequence - Phase 5.
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Checkpoint Candle Fire Visualisation Layer Issue.
+[*]Lanterns Staying on after death.
+[*]5th Character Set audio cue turning on lantern with zero charge.
+[/list]
+
+}
+
+[h1]What's To Come?[/h1]
+[b]Level Editor[/b]
+A level editor is one of our next predominant tasks to tackle. This will be a lengthy process - but we hope to keep everyone informed on the progress being made.
+
+[b]Levels[/b]
+More [i]refined[/i] levels for each of the character sets. These levels will start to hone in on the specialties of each character set accompanied by mechanics that suit them best.
+
+[b]Door Audio[/b]
+There's an audio issue with doors at the moment. All door audio has been temporarily disabled. This will be fixed in a hot fix in the coming days.
+
+[h1]Stay Up to Date[/h1]
+Come join us on [url=https://www.facebook.com/ArtefactAssembly/] Facebook[/url]
+Tweet to us on [url=https://twitter.com/ArtefactA_Dev]Twitter[/url]
+Find us on [url=https://www.instagram.com/artefactassemlydev/] Instagram[/url]
+Come join us in [url=https://discord.gg/VaYx8Px] Discord[/url]
+
+[h1]Need a Friend?[/h1]
+You could try using Parsec [parsecgaming.com]
+Because Lanterns is currently only local-coop, If your friends are too far away, Parsec is a great way to play local games online. Parsec is free and relatively easy to setup.
+
+- The Artefact Team

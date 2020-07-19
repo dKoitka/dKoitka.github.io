@@ -1,0 +1,22 @@
+[img]http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32213892/27cabde34d66a261d2302d9469e4959b4219f9f5.gif[/img]
+
+In this fortnightly update:
+{
+[b]Respawn Overhaul - Checkpoint Respawning System[/b]
+We’ve changed how respawning works. It no longer respawns your character on the last safe normal block they were standing on. They now respawn at a set location - Candle Stands. Only a single checkpoint (for each player) can be set as the active respawn location. A previously activated checkpoint cannot be re-activated. We’re working on visualisations that make this clear.
+
+[b]Extra Bits and Bobs[/b]
+Added Bug Report Button in the pause menu.
+Added “Level Text” - in the pause menu - that shows which level is currently being played. Hopefully if you encounter any issues, or have suggestions, this will help identify which content you can direct your feedback to.
+Added Individual UI Player Death count - in the pause menu.
+Added Build Version Number - in the pause menu.
+Added Colour Blind Button - in the pause menu. This will toggle colour representative icons on appropriate coloured game content. This functionality will be coming soon.
+}
+
+[b]Need a Friend?[/b]
+Because Lanterns is currently only local-coop, and sometimes you're in need of a friend but don't have one at the ready. You could try using [url=https://parsecgaming.com/] Parsec	[/url].
+
+[b]Discord[/b]
+Come join us in [url=https://discord.gg/VaYx8Px] Discord[/url].
+
+- Nic

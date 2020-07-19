@@ -1,0 +1,65 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/787e1444ad25106107923ec872f66deef6a0ce5c.gif[/img]
+[h1]Lanterns Update v0.5.0[/h1]
+
+In this fortnightly update:
+{
+
+[h1]All Levels Unlocked[/h1]
+[Temporary] All levels have been unlocked so everyone has full access to all the levels. Our progression will be changing drastically over time and we will start to lock levels and return to a refined level / game progression system when the time is right.
+
+[h1]Fifth Character Set[/h1]
+We've added a fifth character set. This character set is currently using the original character art. This set's lantern charge does not regenerate. There is a new collectable which restores lantern charge.
+
+[h1]Moth Character Set - 6 New Levels[/h1]
+Moth character set now has 6 (new) playable levels and can be navigated to by either:
+[list][*]Finishing the last level in the Owl set levels (temporary Skull Character Set).
+[*]The level select door within character selecting.[/list]
+
+[h1]Angler Fish Character Set - 29 New Levels[/h1]
+Angler Fish character set now has 29 playable levels and can be navigated to by either:
+[list][*]Finishing the last level in the Moth set levels.
+[*]The level select door within character selecting.[/list]
+
+[h1]Device Input UI Panel[/h1]
+[Preparation] In the pause menu > options, there is a new button [Device Assign]. This button opens a panel where players (in a future update) will be able to select what input device they use to play Lanterns with. Players will be able to choose who plays Red and who plays Blue and on what (available) input device.
+
+[h1]Self Destruct Input[/h1]
+A new button/key input has been added. On controller this is Y/Triangle, on keyboard it's R. After holding for one second this simulates a playable character dying.
+
+[h1]Coin Collection - Door Landing Particles[/h1]
+When a coin is collected and has zoomed towards the door/s - they now create a particle system that explodes within the door frame.
+
+[h1]Door Portal Transparency[/h1]
+When doors are activated - their portal now fades in from invisible to fully visible.
+
+[h1]Bug Fixes[/h1]
+[list][*]Fixed wisp transforming into character sets getting stuck in blocks.
+[*]Fixed the origin position of angler fish character set's lantern ray, to flip with character facing direction.
+[*]Fixed level select UI buttons to load correct levels.[/list]
+
+}
+
+[h1]What's To Come?[/h1]
+[b]Levels[/b]
+More levels for each of the character sets.
+
+[b]Revised Angler Fish Character Art[/b]
+New Angler Fish character art is in the works. The lure will be centred so the flipping doesn’t effect the ray.
+
+[b]New Game Tutorialisation[/b]
+A new game tutorialisation sequence is in the works. This will only be required to be completed once before core content playability is available. The tutorial sequence will be for first time game play, but will always be available to return to.
+
+[b]Self Destruct Input Visualisation[/b]
+Working on a solution to visualise the input of self destructing.
+
+[h1]Stay Up to Date[/h1]
+Come join us on [url=https://www.facebook.com/ArtefactAssembly/] Facebook[/url]
+Tweet to us on [url=https://twitter.com/ArtefactA_Dev]Twitter[/url]
+Find us on [url=https://www.instagram.com/artefactassemlydev/] Instagram[/url]
+Come join us in [url=https://discord.gg/VaYx8Px] Discord[/url]
+
+[h1]Need a Friend?[/h1]
+You could try using Parsec [parsecgaming.com]
+Because Lanterns is currently only local-coop, If your friends are too far away, Parsec is a great way to play local games online. Parsec is free and relatively easy to setup.
+
+- The Artefact Team

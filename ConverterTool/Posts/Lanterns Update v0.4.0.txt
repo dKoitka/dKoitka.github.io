@@ -1,0 +1,54 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/c3213c6a64adb3b7e4dde45a4393541d3da9d99f.gif[/img]
+[h1]Lanterns Update v0.4.0[/h1]
+
+Hey all, [b]sorry[/b] it's been quiet over the last month. There's been a lot of development and tinkering happening behind the curtain. Get ready for new and exciting things!
+
+In this monthly update:
+{
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/42bacd3ad23da62991ca9881b524bb9e7e8ac452.gif[/img]
+[h1]Death Particles[/h1]
+When a playable character dies - they now create a particle system that quickly moves towards their respawn location.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/1a01caa20af09a1c87759e7e9f88e11ff202a7eb.gif[/img]
+[h1]Coin Collection Particles[/h1]
+When a coin is collected - they now create a particle system that quickly moves towards the door/s present within the level. If there are multiple doors - each particle system will chain to every door within the level.
+
+[h1]Collected Coins UI[/h1]
+When a coin is collected - a counter for the player who collected it fades in underneath their lantern bar, increments, then fades away.
+
+[h1]Full Lantern Recharge On Death[/h1]
+When a playable character dies - their lantern charge rapidly recharges to full.
+
+}
+
+[h1]What's To Come?[/h1]
+[b]Character Update[/b]
+We have some major design changes in the works that will add a lot of variety to game play - in the form of new playable characters and character specific mechanics.
+Anthropomorphised Playable Character Sets:
+Foxes
+Owls (Currently represented as the skull character set)
+Moths
+Angler Fish
+[b]Please note this is not final and has the potential to change.[/b]
+
+[h1]Level Progression[/h1]
+Currently - lanterns has about 75 playable levels worth of content. It has a very linear progression - and as the game goes on, new mechanics are implemented and slapped on the end of the existing content. It hasn't been tailored in any way. We're getting to the stage in development now where we're going to start refining this progression, especially now the content updates will be related to new character sets. The current levels within the game won't just disappear - they'll remain safe for a long while, if not forever as some of the original content. Although we'll be drawing inspiration for the new content and progression based off our findings and experiences with these levels.
+
+[h1]One Last Mechanic[/h1]
+In the recent changes you will notice content updates that include many new mechanics and ways that lanterns light effect and interact with blocks and other objects within the world. There's one more to go - that isn't in this update but will be in one, in the near future. We've prototyped all of the mechanics we set out to, that we felt fit with the game nicely. There were also a few that didn't make the cut. We haven't forgotten about them and they're definitely stored for later on down the track just in case.
+
+[h1]Let Us Know What You Think[/h1]
+If you've played the game, seen any content online, have any opinions or feedback with what's currently in the game or where it's heading - Let Us Know. We'd love to hear your thoughts or ideas.
+
+[h1]Stay Up to Date[/h1]
+Come join us on [url=https://www.facebook.com/ArtefactAssembly/] Facebook[/url]
+Tweet to us on [url=https://twitter.com/ArtefactA_Dev]Twitter[/url]
+Find us on [url=https://www.instagram.com/artefactassemlydev/] Instagram[/url]
+Come join us in [url=https://discord.gg/VaYx8Px] Discord[/url]
+
+[h1]Need a Friend?[/h1]
+You could try using Parsec [parsecgaming.com]
+Because Lanterns is currently only local-coop, If your friends are too far away, Parsec is a great way to play local games online. Parsec is free and relatively easy to setup.
+
+- The Artefact Team

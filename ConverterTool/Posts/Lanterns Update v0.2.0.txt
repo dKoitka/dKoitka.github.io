@@ -1,0 +1,60 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/ca6d63b329357672a92373d98cfe81535c8f3a1e.gif[/img]
+
+Lanterns Update v0.2.0
+In this fortnightly update:
+{
+
+[b]Coloured Coins[/b]
+Like regular coins - except these coins require a light type to be visible and collected. They function the same as normal blocks that go from invisible to visible when the correct light type is shone on it. There's a constant sparkle on each of the coloured coins - so their location is visible.
+
+[b]Block & Spike Types[/b]
+[list]
+[*][i]New [/i] - Inverted Spikes.
+[*][i]New [/i] - Degrading Blocks.
+[*][i]New [/i] - Spring Blocks.
+[*][i]New [/i] - Pivot Blocks.
+[*][i]New [/i] - Rotation Blocks (Free).
+[*][i]New [/i] - Rotation Blocks (Motorised).
+[/list]
+
+[b]Block & Spike Art[/b]
+[list]
+[*][i]Updated[/i] - Normal (coloured) blocks now all have the same art.
+[*][i]Updated[/i] - Spikes now all have the same art.
+[*][i]New[/i] - Moving Blocks Art.
+[*][i]New[/i] - Inverting Blocks Art.
+[*][i]New[/i] - Absorbing Blocks Art.
+[*][i]New[/i] - Degrading Blocks Art.
+[*][i]New[/i] - Spring Blocks Art.
+[*][i]New[/i] - Pivot Blocks Art.
+[*][i]New[/i] - Rotation Blocks (Free) Art.
+[*][i]New[/i] - Rotation Blocks (Motorised) Art.
+[/list]
+
+[b]27 New Levels![/b]
+New levels that showcase coloured coins and the new block & spike types.
+More levels select doors within Level Select Master and it's subsequent doors that link to levels.
+
+[b]Collected Coins UI[/b]
+Collected Coins UI for each player has been added in the pause menu. It is located underneath the player death count UI. These numbers increment every time a player collects a coin.
+
+[b]Extra Bits and Bobs[/b]
+Tweaked some level designs.
+[list]
+[*]Existing level design tweaks.
+[*]File saving system that works for preparation with Steam Cloud.
+[b]This may reset game progress. We apologise for any inconveniences caused[/b]
+[/list]
+
+}
+
+[b]Stay Up to Date[/b]
+Come join us on [url=https://www.facebook.com/ArtefactAssembly/] Facebook[/url]
+Tweet to us on [url=https://twitter.com/ArtefactA_Dev]Twitter[/url]
+Find us on [url=https://www.instagram.com/artefactassemlydev/] Instagram[/url]
+Come join us in [url=https://discord.gg/VaYx8Px] Discord[/url]
+
+[b]Need a Friend?[/b]
+Because Lanterns is currently only local-coop, and sometimes you're in need of a friend but don't have one at the ready. You could try using Parsec	[parsecgaming.com]
+
+- The Artefact Team

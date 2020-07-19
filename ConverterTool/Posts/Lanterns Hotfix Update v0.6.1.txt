@@ -1,0 +1,21 @@
+In this Lanterns hotfix update:
+{
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Morphing blocks not responding to Lantern rays or auras.
+[*]Fox Character set - Lantern aura turns off when lantern charge is zero. (Fixed not turning off on level reload).
+[*]Playable characters slipping off corners of blocks.
+[*]Turret projectile lifetime tweaked per level.
+[*]Inverted blocks glow sprite not showing.[/list]
+
+[h1]Minor Changes[/h1]
+[list]
+[*]Fox Character set - Lantern recharge collectables now respawn when a playable character dies.
+[*]AI has had an improvement on its path-finding ability.
+[*]Spring blocks now launch just a little bit higher.
+[/list]
+
+}
+
+- The Artefact Team

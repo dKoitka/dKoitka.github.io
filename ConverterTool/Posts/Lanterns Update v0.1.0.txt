@@ -1,0 +1,29 @@
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32213892/92622c7c75bd7a8b26b8e1d726ca594d6fa01b82.gif[/img]
+
+In this fortnightly update:
+{
+[b]Colour Blind Accessibility - Colour Icons[/b]
+We've implemented colour icons on blocks and spikes.
+
+[b]Reorganised Pause Menu[/b]
+In the pause menu there's a new button "Options". This activates a sub-panel that houses options for:
+[list]
+[*]Toggling colour blind icons.
+[*]Controlling audio levels.
+[*]Bug Reporting. [b]Note: this opens an external link.[/b]
+[*]Credits. 
+[/list]
+
+[b]Extra Bits and Bobs[/b]
+[list]
+[*]Iterated on some level design.
+[/list]
+}
+
+[b]Need a Friend?[/b]
+Because Lanterns is currently only local-coop, and sometimes you're in need of a friend but don't have one at the ready. You could try using [url=https://parsecgaming.com/] Parsec	[/url].
+
+[b]Discord[/b]
+Come join us in [url=https://discord.gg/VaYx8Px] Discord[/url].
+
+- Nic
